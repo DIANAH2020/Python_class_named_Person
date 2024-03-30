@@ -1,5 +1,5 @@
 # Python_class_named_Person
-# prompt: Create a Python class named Person.
+# Create a Python class named Person.
 # The Person class should have the following attributes:
 # name: representing the person's name.
 # age: representing the person's age.
